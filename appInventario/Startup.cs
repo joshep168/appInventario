@@ -28,6 +28,8 @@ namespace appInventario
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnectionString")));
+            //services.AddDbContext<AppDbBuscaColaborador>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnectionString")));
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

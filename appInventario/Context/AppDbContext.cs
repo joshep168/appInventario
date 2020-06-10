@@ -14,10 +14,24 @@ namespace appInventario.Context
 
         }
 
-        public DbSet<Rol> Rol { get; set; }
-        public DbSet<Proyecto> Proyecto { get; set; }
-        public DbSet<Laptop> Laptop { get; set; }
-        public DbSet<Maestro> Maestro { get; set; }
+        public virtual DbSet<Rol> Rol { get; set; }
+        public virtual DbSet<Colaborador> Colaboradores { get; set; }
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+
+            modelBuilder.Entity<Rol>()
+               .HasMany(b => b.Colaboradores);
+
+        }
+
+
+        //public DbSet<Rol> Rol { get; set; }
+        //public DbSet<Proyecto> Proyecto { get; set; }
+        //public DbSet<Laptop> Laptop { get; set; }
+        //public DbSet<Maestro> Maestro { get; set; }
+        //public DbSet<Colaborador> Colaborador { get; set; }
 
     }
 }

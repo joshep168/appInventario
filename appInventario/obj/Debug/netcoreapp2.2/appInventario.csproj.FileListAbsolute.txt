@@ -6,8 +6,6 @@ C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\bi
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\bin\Debug\netcoreapp2.2\appInventario.runtimeconfig.dev.json
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\bin\Debug\netcoreapp2.2\appInventario.dll
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\bin\Debug\netcoreapp2.2\appInventario.pdb
-C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.csprojAssemblyReference.cache
-C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.csproj.CoreCompileInputs.cache
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.RazorAssemblyInfo.cache
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.RazorAssemblyInfo.cs
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.AssemblyInfoInputs.cache
@@ -16,3 +14,4 @@ C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\ob
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.dll
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.pdb
 C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.genruntimeconfig.cache
+C:\Users\JOSE\OneDrive\PROYECTOS\INVENTARIOS\BACK\appInventario\appInventario\obj\Debug\netcoreapp2.2\appInventario.csproj.CoreCompileInputs.cache
